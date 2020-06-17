@@ -1,0 +1,13 @@
+
+.container {
+    // width: 100%;
+    background-image: linear-gradient(to right, #034378, #2d4e68);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    min-height: 100vh;
+    font-family: "Open Sans", sans-serif;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}

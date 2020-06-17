@@ -1,0 +1,27 @@
+.wrapper {
+    flex: 1 1 15rem;
+    margin: 1rem 2rem;
+    min-height: 80vh;
+    background: white;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+    article {
+        height: 45vh;
+        background: rgba(0, 0, 0, 0.8);
+        color: white;
+        padding: 1rem;
+        border-bottom-left-radius: 8px;
+        border-bottom-right-radius: 8px;
+        line-height: 1.8rem;
+        .trailer {
+            text-align: center;
+        }
+        span {
+            color: #2b46a7;
+        }
+    }
+}
