@@ -15,7 +15,7 @@ const Movies = () => {
                 date: "24 septembre 2019",
                 category: "Drame historique",
                 resume:
-                "Dans l'Angleterre du 15e siècle, Hal, un prince capricieux et bon à rien, devient un roi puissant lorsqu'il hérite à contrec?ur du trône et de ses conflits",
+                "Dans l'Angleterre du 15e siècle, Hal, un prince capricieux et bon à rien, devient un roi puissant lorsqu'il hérite à contrecoeur du trône et de ses conflits",
                 like: false,
                 nbLike: 18,
                 comment: 3,
